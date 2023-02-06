@@ -1,12 +1,12 @@
 ### Hi there 👋, I am [Ilya](https://in0vik.github.io/)! 😁
 
-I am Frontend engineer with a background in music, film production, and visual arts. 
+I am a Frontend engineer with a background in music, film production, and visual arts. 
 Use JavaScript, TypeScript, React, Node.js, Express.js, Webpack, 
 MongoDB, CSS, HTML, GIT, BEM in my work.  
 I am learning Phyton because this challenges me and helps me contribute more to AI tools.
 
-- My last works [website for startups.family](https://startups.family/en/), Mesto project, [website for Super 8 design studio](https://super8collective.com/).
-- 🔭 I'm researcher, and comunicator love to find and share new infromation
+- My last works are [website for startups.family](https://startups.family/en/), Mesto project, [website for Super 8 design studio](https://super8collective.com/).
+- 🔭 I'm a researcher, and communicator who loves to find and share new information
 - 👾 My python [AI state-of-the-art project](https://portraitofprotesters.github.io/v/) took a part in exhibitions in LA, Warsaw and Krakow
 - 📸 [Shoot on film](https://www.instagram.com/inovik)
 - 🥁 Collect Vinyl. Do parties. Addicted to Music
