@@ -5,7 +5,7 @@ Use JavaScript, TypeScript, React, Node.js, Express.js, Webpack,
 MongoDB, CSS, HTML, GIT, BEM in my work.  
 I am learning Phyton because this challenges me and helps me contribute more to AI tools.
 
-- My last works are [website for startups.family](https://startups.family/en/), Mesto project, [website for Super 8 design studio](https://super8collective.com/).
+- My last works are [website for startups.family](https://startups.family/en/), [Mesto project](http://whereis.nomoredomainsclub.ru/), [website for Super 8 design studio](https://super8collective.com/).
 - 🔭 I'm a researcher, and communicator who loves to find and share new information
 - 👾 My python [AI state-of-the-art project](https://portraitofprotesters.github.io/v/) took a part in exhibitions in LA, Warsaw and Krakow
 - 📸 [Shoot on film](https://www.instagram.com/inovik)
@@ -19,7 +19,7 @@ I am learning Phyton because this challenges me and helps me contribute more to 
 ![React](https://img.shields.io/badge/-Express-black?logo=react&style=social)&nbsp;&nbsp;
 ![Express.js](https://img.shields.io/badge/-React-black?logo=express&style=social)&nbsp;&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=social)&nbsp;&nbsp;
-![Webpack](https://img.shields.io/badge/-Weabpack-black?logo=webpack&style=social)&nbsp;&nbsp;
+![Webpack](https://img.shields.io/badge/-Webpack-black?logo=webpack&style=social)&nbsp;&nbsp;
 ![BEM](https://img.shields.io/badge/-BEM-black?logo=BEM&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=Typescript&style=social)&nbsp;&nbsp;
