@@ -1,11 +1,11 @@
 ### Hi there 👋, I am [Ilya](https://in0vik.github.io/)! 😁
 
 I am a Frontend engineer with a background in music, film production, and visual arts. 
-Use JavaScript, TypeScript, React, Node.js, Express.js, Webpack, 
+Use JavaScript, TypeScript, Python, React, Node.js, Express.js, Webpack, 
 MongoDB, CSS, HTML, GIT, BEM in my work.  
 I am learning Phyton because this challenges me and helps me contribute more to AI tools.
 
-- My last works are [website for startups.family](https://startups.family/en/), [Mesto project](http://whereis.nomoredomainsclub.ru/), [website for Super 8 design studio](https://super8collective.com/).
+- My last works are [soulTalker](https://github.com/in0vik/tg-bot-talktochatgpt) СhatGPT based telegram bot chatting by voice, [Mesto project](http://mesto.fly.dev/), [website for startups.family](https://startups.family/en/), [website for Super 8 design studio](https://super8collective.com/).
 - 🔭 I'm a researcher, and communicator who loves to find and share new information
 - 👾 My python [AI state-of-the-art project](https://portraitofprotesters.github.io/v/) took a part in exhibitions in LA, Warsaw and Krakow
 - 📸 [Shoot on film](https://www.instagram.com/inovik)
@@ -16,10 +16,11 @@ I am learning Phyton because this challenges me and helps me contribute more to 
 **Languages and Tools:** 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
-![React](https://img.shields.io/badge/-Express-black?logo=react&style=social)&nbsp;&nbsp;
-![Express.js](https://img.shields.io/badge/-React-black?logo=express&style=social)&nbsp;&nbsp;
+![React](https://img.shields.io/badge/-React-black?logo=react&style=social)&nbsp;&nbsp;
+![Express.js](https://img.shields.io/badge/-Express-black?logo=express&style=social)&nbsp;&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=social)&nbsp;&nbsp;
 ![Webpack](https://img.shields.io/badge/-Webpack-black?logo=webpack&style=social)&nbsp;&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-black?logo=Docker&style=social)&nbsp;&nbsp;
 ![BEM](https://img.shields.io/badge/-BEM-black?logo=BEM&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=Typescript&style=social)&nbsp;&nbsp;
