@@ -29,6 +29,6 @@ I am learning Phyton because this challenges me and helps me contribute more to 
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-![in0vik's Github Stats](https://github-readme-stats.vercel.app/api?username=in0vik&show_icons=true&count_private=true&theme=transparent&include_all_commits=true&disable_animations=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=in0vik&layout=compact&theme=transparent)
+![in0vik's Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=in0vik&show_icons=true&count_private=true&theme=transparent&include_all_commits=true&disable_animations=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=in0vik&layout=compact&theme=transparent)
 
