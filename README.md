@@ -5,7 +5,7 @@ Use JavaScript, TypeScript, Python, React, Node.js, Express.js, Webpack,
 MongoDB, CSS, HTML, GIT, BEM in my work.  
 I am learning Phyton because this challenges me and helps me contribute more to AI tools.
 
-- My last works are [soulTalker](https://github.com/in0vik/tg-bot-talktochatgpt) СhatGPT based telegram bot chatting by voice, [Mesto project](https://github.com/in0vik/movies-explorer-api), [website for startups.family](https://startups.family/en/), [website for Super 8 design studio](https://super8collective.com/).
+- My last works are [soulTalker](https://github.com/in0vik/tg-bot-talktochatgpt) СhatGPT based telegram bot chatting by voice, [Mesto project](https://github.com/in0vik/movies-explorer-api), [Scroll magic ](https://rolling-scopes-school.github.io/inovik94-JSFE2021Q1/presentation/example/index.html)(Apple like mock), [website for startups.family](https://startups.family/en/), [website for Super 8 design studio](https://super8collective.com/).
 - 🔭 I'm a researcher, and communicator who loves to find and share new information
 - 👾 My python [AI state-of-the-art project](https://portraitofprotesters.github.io/v/) took a part in exhibitions in LA, Warsaw and Krakow
 - 📸 [Shoot on film](https://www.instagram.com/inovik)
