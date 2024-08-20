@@ -2,7 +2,7 @@
 
 I am a Frontend Engineer with 3+ years of experience, combining a 5+ years background in IT & research and development with creative fields. My expertise spans JavaScript, TypeScript, React, Zustand, Tailwind CSS, Vite and React Query. I also have experience working with Python, particularly in integrating AI tools.
 
-- 🚀 **Recently worked at [Approveit](https://approveit.today)** as a Middle Frontend Developer, contributing to the development of advanced features using React, TypeScript, Zustand, Tailwind CSS, and Tanstack. I worked closely with the backend on projects involving OCR, AI tools, 2FA authentication, Jira-style task management, user dashboards, and browser extensions for Chrome and Firefox.
+- 🚀 Recently worked at [Approveit](https://approveit.today) as a Middle Frontend Developer, contributing to the development of advanced features using React, TypeScript, Zustand, Tailwind CSS, and Tanstack. I worked closely with the backend on projects involving OCR, AI tools, 2FA authentication, Jira-style task management, user dashboards, and browser extensions for Chrome and Firefox.
 - 👾 My Python [AI state-of-the-art project](https://portraitofprotesters.github.io/v/) was showcased in exhibitions in LA, Warsaw, and Krakow.
 - 🌐 My notable projects include [soulTalker](https://github.com/in0vik/tg-bot-talktochatgpt), a ChatGPT-based Telegram bot for voice conversations, [🎬 Movies Explorer](https://github.com/in0vik/movies-explorer-api-full), and [Scroll Magic](https://rolling-scopes-school.github.io/inovik94-JSFE2021Q1/presentation/example/index.html) (📲 an Apple-like mock).
 - 🔭 I’m passionate about research and always eager to share new insights.
