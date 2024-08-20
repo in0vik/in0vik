@@ -1,17 +1,14 @@
 ### Hi there 👋, I am [Ilya](https://in0vik.github.io/)! 😁
 
-I am a Frontend engineer with a background in music, film production, and visual arts. 
-Use JavaScript, TypeScript, Python, React, Node.js, Express.js, Webpack, 
-MongoDB, CSS, HTML, GIT, BEM in my work.  
-I am learning Phyton because this challenges me and helps me contribute more to AI tools.
+I am a Frontend Engineer with 3+ years of experience, combining a 5+ years background in IT & research and development with creative fields. My expertise spans JavaScript, TypeScript, React, Zustand, Tailwind CSS, Vite and React Query. I also have experience working with Python, particularly in integrating AI tools.
 
-- My last works are [soulTalker](https://github.com/in0vik/tg-bot-talktochatgpt) СhatGPT based telegram bot chatting by voice, [🎬 Movies Explorer](https://github.com/in0vik/movies-explorer-api-full), [📍 Mesto project](https://github.com/in0vik/movies-explorer-api), [Scroll magic ](https://rolling-scopes-school.github.io/inovik94-JSFE2021Q1/presentation/example/index.html)(📲 Apple like mock), [website for startups.family](https://startups.family/en/), [website for Super 8 design studio](https://super8collective.com/).
-- 🔭 I'm a researcher, and communicator who loves to find and share new information
-- 👾 My python [AI state-of-the-art project](https://portraitofprotesters.github.io/v/) took a part in exhibitions in LA, Warsaw and Krakow
-- 📸 [Shoot on film](https://www.instagram.com/inovik)
-- 🥁 Collect Vinyl. Do parties. Addicted to Music
-- 🔮 Wrote this without AI
-
+- 🚀 **Recently worked at [Approveit](https://approveit.today)** as a Middle Frontend Developer, contributing to the development of advanced features using React, TypeScript, Zustand, Tailwind CSS, and Tanstack. I worked closely with the backend on projects involving OCR, AI tools, 2FA authentication, Jira-style task management, user dashboards, and browser extensions for Chrome and Firefox.
+- 🌐 My notable projects include [soulTalker](https://github.com/in0vik/tg-bot-talktochatgpt), a ChatGPT-based Telegram bot for voice conversations, [🎬 Movies Explorer](https://github.com/in0vik/movies-explorer-api-full), and [Scroll Magic](https://rolling-scopes-school.github.io/inovik94-JSFE2021Q1/presentation/example/index.html) (📲 an Apple-like mock).
+- 🔭 I’m passionate about research and always eager to share new insights.
+- 👾 My Python [AI state-of-the-art project](https://portraitofprotesters.github.io/v/) was showcased in exhibitions in LA, Warsaw, and Krakow.
+- 📸 [Shoot on film](https://www.instagram.com/inovik) and explore visual storytelling.
+- 🥁 Vinyl collector, event organizer, and dedicated music enthusiast.
+- 🔮 Wrote this without AI.
 
 **Languages and Tools:** 
 
