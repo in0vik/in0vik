@@ -1,33 +1,57 @@
-### Hi there 👋, I am [Ilya](https://in0vik.github.io/), Product Engineer 
+# Hey, I'm Ilya 👋
+
+📍 **Remote** | **AI agent trainer** |  **Solar · BIM · CAD platforms** | **Startup consultant**
 
 
-- 👾 My Python [AI state-of-the-art project](https://portraitofprotesters.github.io/v/) was showcased in exhibitions in LA, Warsaw, and Krakow.
-- 🌐 [Scroll Magic](https://rolling-scopes-school.github.io/inovik94-JSFE2021Q1/presentation/example/index.html) (📲 an Apple-like mock).
-- 🔭 I’m passionate about research and always eager to share new insights.
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![BIM](https://img.shields.io/badge/-BIM-FF6B35?style=flat-square&logo=autodesk&logoColor=white)
+![React](https://img.shields.io/badge/-React-FF3E00?style=flat-square&logo=react&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Languages and Tools:** 
 
-![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
-![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
-![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
-![Tailwind](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind&color=222222&logo=Tailwind&logoColor=61DAFB&label=)
-![Vite](https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=222222&logo=Vite&logoColor=61DAFB&label=)
-![Zustand](https://img.shields.io/static/v1?style=for-the-badge&message=zustand&color=222222&logo=zustand&logoColor=61DAFB&label=)
-![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
-![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
-![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
-![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=)
-![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
-![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
-![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
-![BEM](https://img.shields.io/static/v1?style=for-the-badge&message=BEM&color=000000&logo=BEM&logoColor=FFFFFF&label=)
-![Webpack](https://img.shields.io/static/v1?style=for-the-badge&message=Webpack&color=222222&logo=Webpack&logoColor=8DD6F9&label=)
-![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
-![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
-![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
-![Mongoose](https://img.shields.io/static/v1?style=for-the-badge&message=Mongoose&color=880000&logo=Mongoose&logoColor=FFFFFF&label=)
-![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+> Training AI agents to handle engineering workflows humans used to spend months on.
+> Consulting startups on where AI actually moves the needle — and where it doesn't.
 
-![in0vik's Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=in0vik&show_icons=true&count_private=true&theme=transparent&include_all_commits=true&disable_animations=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=in0vik&layout=compact&theme=transparent)
+---
 
+## What I Do
+
+- 🤖 **AI agent engineering** — design and train agentic systems for complex technical domains: solar farm layout, BIM/CAD automation, structural analysis
+- 🧠 **Startup AI consulting** — help founders find the right AI leverage points; skip the hype, ship the value
+- 🎨 **UX strategy** — product thinking meets interface craft; I make complex tools feel obvious
+- ☀️ **Solar platform engineering** — full-stack work on design tools for PV engineers
+- 🏗️ **BIM tooling** — building the future of parametric design workflows
+
+---
+
+## Current Focus
+
+- Building AI-native engineering platform where agents do the heavy lifting
+
+---
+
+## Stack
+
+**Languages:** TypeScript · Python ⋅ Bash
+**Frontend:** Svelte · React **Backend:**· NodeJS, FastAPI, Python
+**AI:** Claude · Anthropic SDK · LLMs · RAG
+**Infra:** GCP, AWS 
+**Domain:** Agents · Evals · BIM · CAD · GIS · Solar
+
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=in0vik&show_icons=true&theme=transparent&count_private=true&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=in0vik&layout=compact&theme=transparent&hide_border=true)
+
+---
+
+## Connect
+
+[![Telegram](https://img.shields.io/badge/-@aiplan-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/aiplan)
+[![Email](https://img.shields.io/badge/-ilya.novikk@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ilya.novikk@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/in0vik)
