@@ -1,6 +1,6 @@
 # Hey, I'm Ilya 👋
 
-📍 **Remote** | **AI agent trainer** |  **Solar · BIM · CAD platforms** | **Startup consultant**
+📍 **Remote** | **Product Engineer** | **AI agent trainer** | **Solar · BIM · CAD platforms** | **Startup consultant**
 
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
