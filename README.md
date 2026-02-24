@@ -45,8 +45,8 @@
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=in0vik&show_icons=true&theme=transparent&count_private=true&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=in0vik&layout=compact&theme=transparent&hide_border=true)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=in0vik&show_icons=true&count_private=true&theme=transparent&include_all_commits=true&disable_animations=true)
+![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=in0vik&layout=compact&theme=transparent)
 
 ---
 
